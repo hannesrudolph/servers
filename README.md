@@ -61,6 +61,9 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[NS Travel Information](https://github.com/r-huijts/ns-mcp-server)** - Access Dutch Railways (NS) real-time train travel information and disruptions through the official NS API.
 - **[Spotify](https://github.com/varunneal/spotify-mcp)** - This MCP allows an LLM to play and use Spotify. 
 - **[Inoyu](https://github.com/sergehuber/inoyu-mcp-unomi-server)** - Interact with an Apache Unomi CDP customer data platform to retrieve and update customer profiles
+- **[iMessage Query](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server)** - Query and analyze iMessage databases with support for message history, contacts, and attachments
+- **[mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs)** - A server for RAG-based document search and retrieval with support for multiple document formats
+- **[SQLite Explorer](https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server)** - Explore and query SQLite databases with schema inspection and advanced query capabilities
 - **[Vega-Lite](https://github.com/isaacwasserman/mcp-vegalite-server)** - Generate visualizations from fetched data using the VegaLite format and renderer.
 - **[Snowflake](https://github.com/isaacwasserman/mcp-snowflake-server)** - This MCP server enables LLMs to interact with Snowflake databases, allowing for secure and controlled data operations.
 - **[MySQL](https://github.com/designcomputer/mysql_mcp_server)** (by DesignComputer) - MySQL database integration in Python with configurable access controls and schema inspection
